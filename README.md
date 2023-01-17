@@ -47,3 +47,4 @@ admin.site.register(Employee,EmployeeAdmin)
 
 
 ## RESULT
+Database created successfully
